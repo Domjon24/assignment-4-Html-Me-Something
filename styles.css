@@ -9,7 +9,7 @@ body {
   color: tan;
   padding-left: 100px;
   padding-right: 100px; 
-  font-family: 'Squada One', cursive;
+  font-family: sans-serif;
   font-size: 17px;
 }
 #mainHeading {
@@ -34,7 +34,6 @@ font-family: Verdana;
       color: green;
   }
   h1 {
-    /* font-family: 'Squada One', cursive; */
     font-size: 90px;
   }
   h4 {
@@ -61,16 +60,6 @@ font-family: Verdana;
     height: 400px;
   }
 
-  .fa-envelope {
-    background: #D2B48C;
-    color: blueviolet;
-    padding: 1rem;
-    /* background: $dark-gray; */
-    display: flex;
-    justify-content: left;
-    align-items: left;
-    height: 15px;
-  }
-  .fa-envelope:hover {
-    opacity: 0.7;
-  }
+.Socials {
+font-size: 10px;
+}
