@@ -1,0 +1,76 @@
+
+body {
+  width: 100%;
+  margin: 8px;
+  /* margin-right: 8px; */
+  display: block;
+  background-image: linear-gradient(#424242, black);
+  text-align: center;
+  color: tan;
+  padding-left: 100px;
+  padding-right: 100px; 
+  font-family: 'Squada One', cursive;
+  font-size: 17px;
+}
+#mainHeading {
+    color: red;
+}
+li {
+    list-style-type: none;
+}
+img {
+    width: 1000px;
+    height: 550px;
+    border-radius: 8px;
+    margin: 0;
+  }
+  article {
+font-family: Verdana;
+  }
+  .funParagraph {
+      color: green;
+  }
+  #testP {
+      color: green;
+  }
+  h1 {
+    /* font-family: 'Squada One', cursive; */
+    font-size: 90px;
+  }
+  h4 {
+    font-size: 50px;
+    /* font-family: 'Squada One', cursive; */
+  }
+  .article {
+    font-family: sans-serif;
+  }
+  #schnucks {
+    width: 350px;
+    height: 450px;
+  }
+  #Moto-Mart {
+    width: 500px;
+    height: 500px;
+  }
+  #Qdoba {
+    width: 300px;
+    height: 500px;
+  }
+  #CAB {
+    width: 500px;
+    height: 400px;
+  }
+
+  .fa-envelope {
+    background: #D2B48C;
+    color: blueviolet;
+    padding: 1rem;
+    /* background: $dark-gray; */
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 15px;
+  }
+  .fa-envelope:hover {
+    opacity: 0.7;
+  }
